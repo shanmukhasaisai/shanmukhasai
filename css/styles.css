@@ -1,0 +1,99 @@
+body{
+    background-color: #EAF6F6;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: #40514e;
+}
+span{
+    text-decoration: underline;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.65rem;
+    padding: 10px;
+    margin: 20px;
+}
+h2{
+    color: #66bfbf;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+h3{
+    color: #66bfbf;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+hr{
+    width: 100px;
+    border: dotted;
+    border-width: 5px;
+    border-bottom: none;
+    margin: 100px,auto,100px,auto;
+    color: black;
+}
+img{
+    width: 10%;
+}
+p{
+    line-height: 2;
+    width: 30%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.BUTTON_GHS {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 40px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    size: 10px;
+ }
+ 
+ .BUTTON_GHS:hover {
+    border: solid #337FED 1px;
+    background: #20E3CB;
+    background-image: -webkit-linear-gradient(top, #20E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #20E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #20E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #20E3CB, #2BC4AD);
+    background-image: -webkit-gradient(to bottom, #20E3CB, #2BC4AD);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+ }
+ .mountain{
+    width: 50%;
+    position: relative;
+    left: 10px;
+}
+.cloud{
+    position: relative;
+    left: 300px;
+    padding-top: 10px;
+}
+.cloud1{
+    position: absolute;
+}
